@@ -1,0 +1,21 @@
+	"Comment Title": {
+		"prefix": "ct",
+		"body": [
+		  "# ==============================================================================",
+		  "#* ${1:Write your Comment here!}",
+		  "# ==============================================================================",
+		  "${3:Tab here and ENTER to Continue...}"
+		],
+		"description": "Comment Title"
+	  },
+
+	"Comment Title for Exercise": {
+		"prefix": "cte",
+		"body": [
+		  "#? =============================================================================",
+		  "#* ${1:Exercise Number} - ${2:Exercise Name}",
+		  "#? =============================================================================",
+		  "${3:TAB here and ENTER to Continue...}"
+		],
+		"description": "Comment Title for Exercise"
+	  }
